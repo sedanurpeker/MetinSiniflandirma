@@ -1,0 +1,2 @@
+# MetinSiniflandirma
+DFA Teknoloji
